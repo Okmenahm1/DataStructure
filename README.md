@@ -1,6 +1,6 @@
 # Data Structures and Algorithms Project Suite
 
-This repository contains four individual projects developed in Java, showcasing practical implementations of essential data structures and algorithms. Each project demonstrates the use of **Linked Lists**, **Stacks**, **Queues**, **Heaps**, **Hash Tables**, **AVL Trees**, and **Dynamic Programming** through real-world applications with a JavaFX user interface (without Scene Builder).
+This repository contains four individual projects developed in Java, showcasing practical implementations of essential data structures and algorithms. Each project demonstrates the use of **Linked Lists**, **Stacks**, **Queues**, **Heaps**, **Hash Tables** And **AVL Trees** through real-world applications with a JavaFX user interface (without Scene Builder).
 
 ---
 
